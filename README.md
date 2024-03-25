@@ -1,2 +1,0 @@
-# securin
-Intership assignment solution
